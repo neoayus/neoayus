@@ -31,5 +31,6 @@
 </main>
 
 <footer>
+   <br> 
    📧 Contact me at: ayus43@outlook.com
 </footer>
