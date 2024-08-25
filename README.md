@@ -1,6 +1,6 @@
 <!--- ayusouttahere/ayusouttahere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
 <header>
-   <h2>Ayush Semwal</h2>
+   <h2>m e m p h i s </h2>
    <p>Sophomore CS Major and Aspiring 10x Dev, I use nvim on my arch linux tho. <br> I still am exploring my Interests.</p>
 </header>
    
