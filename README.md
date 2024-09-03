@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 m e m p h i s :
 Sophomore CS Major and Aspiring 10x Dev, I use nvim btw. <br>I still am exploring my Interests.<br><br>I Could've achieved more in my 10x Dev Journey if my college’s attendance policy wasn't so strict!<br>also, I have a beautiful supportive girlfriend.<br><br>📧 Contact me at: ayus43@outlook.com
 
 
